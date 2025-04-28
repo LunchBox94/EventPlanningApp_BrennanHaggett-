@@ -1,3 +1,12 @@
+8-3 Journal Portfolio Submission
+Brennan Haggett
+04/27/2025
+
+The Event Planning App was developed to allow users to create, view, and organize their important events through a simple mobile interface. It addressed the need for an easy-to-use event tracker with login capabilities. The app included login/signup screens, an event list display, and an add event form. I kept the design minimal and intuitive, ensuring users could quickly navigate and perform actions without confusion. I approached the coding process by modularizing activities and using an SQLite database to handle user and event data, following best practices for maintainability. Testing was done regularly with the Android Emulator to verify database functionality, user flows, and input handling. I had to innovate by debugging database queries to ensure the login system worked properly. I was particularly successful in implementing database operations, which demonstrated my growing skills in mobile development, UI design, and persistence handling.
+
+
+
+
 # EventPlanningApp_BrennanHaggett-
 Portfolio artifact for CS 360 - Event Planning App
 [EventPlanningAPP_BrennanHaggett.zip](https://github.com/user-attachments/files/19935139/EventPlanningAPP_BrennanHaggett.zip)
